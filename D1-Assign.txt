@@ -1,0 +1,28 @@
+github.com
+
+Ril@1234
+
+devops@100.26.98.11
+https://bit.ly/2nhKGAQ 
+user-devops
+Pwd: sudo
+
+sudo apt-get update
+
+Github ac: sanjayasahu79 (sanjaya.sahu@ril.com)
+Pass: Rcp@123456
+
+
+
+
+Create a Github Ac
+
+Create a Repository
+
+Create a repository
+Create a Clone
+Create a branch
+modify code
+git add- commit-push (local branch to Local)
+Create a Pull request
+Team lead will merge Code
